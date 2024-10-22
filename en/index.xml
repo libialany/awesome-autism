@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Lib</title>
+    <title>Ens on Lib</title>
     <link>https://awesome-autism.mlibia.xyz/en/</link>
-    <description>Recent content on Lib</description>
+    <description>Recent content in Ens on Lib</description>
     <image>
       <title>Lib</title>
       <url>https://awesome-autism.mlibia.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,6 +11,37 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://awesome-autism.mlibia.xyz/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helpful Books</title>
+      <link>https://awesome-autism.mlibia.xyz/en/posts/book/</link>
+      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>https://awesome-autism.mlibia.xyz/en/posts/book/</guid>
+      <description>Books Living Well on the Spectrum: How to Use Your Strengths to Meet the Challenges of Asperger Syndrome/High-Functioning Autism Explains traits in detail and offers strategies for various aspects of life skills and domains of functioning
+Aspergers Survival Guide A short read with basic tips and coping strategies </description>
+    </item>
+    <item>
+      <title>Helpful Communities</title>
+      <link>https://awesome-autism.mlibia.xyz/en/posts/comunity/</link>
+      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>https://awesome-autism.mlibia.xyz/en/posts/comunity/</guid>
+      <description>Communities Aspergers Subreddit A friendly and helpful Reddit community Aspergirls Subreddit Life skills and healthy coping mechanisms for the ASD community </description>
+    </item>
+    <item>
+      <title>Helpful Organizations</title>
+      <link>https://awesome-autism.mlibia.xyz/en/posts/organizations/</link>
+      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>https://awesome-autism.mlibia.xyz/en/posts/organizations/</guid>
+      <description>:office: Organizations AANE The Asperger/Autism Network (AANE) helps people with Asperger’s and similar autism spectrum and neurodiverse profiles build meaningful, connected lives.
+Felicity House NYC NYC non-profit community space that organizes events for women with autism. </description>
+    </item>
+    <item>
+      <title>Helpful Videos</title>
+      <link>https://awesome-autism.mlibia.xyz/en/posts/videos/</link>
+      <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
+      <guid>https://awesome-autism.mlibia.xyz/en/posts/videos/</guid>
+      <description>:computer: Video Resources How to Flirt and Get a Date Youtuber talks about masking, internalised ableism and adult diagnosis Alexithymia and Autism: What is it, coping and tips Video Resources for Women Tony Attwood - Aspergers in Girls Girls and Women and Autism: What’s the difference? - Sarah Hendrickx </description>
+    </item>
   </channel>
 </rss>

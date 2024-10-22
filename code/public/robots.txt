@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://awesome-autism.mlibia.xyz/sitemap.xml

@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://awesome-autism.mlibia.xyz/en/categories/</loc>
+    <loc>https://awesome-autism.mlibia.xyz/categories/books/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/categories/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -11,10 +15,29 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://awesome-autism.mlibia.xyz/en/categories/"
+                href="https://awesome-autism.mlibia.xyz/categories/"
                 />
   </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/categories/community/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://awesome-autism.mlibia.xyz/en/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/en/posts/book/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/en/posts/comunity/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/en/posts/organizations/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/en/posts/videos/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -23,10 +46,38 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://awesome-autism.mlibia.xyz/en/"
+                href="https://awesome-autism.mlibia.xyz/"
                 />
   </url><url>
-    <loc>https://awesome-autism.mlibia.xyz/en/tags/</loc>
+    <loc>https://awesome-autism.mlibia.xyz/categories/organizations/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/categories/video/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://awesome-autism.mlibia.xyz/es/categories/video/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://awesome-autism.mlibia.xyz/categories/video/"
+                />
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://awesome-autism.mlibia.xyz/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://awesome-autism.mlibia.xyz/about/"
+                />
+  </url><url>
+    <loc>https://awesome-autism.mlibia.xyz/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -35,7 +86,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://awesome-autism.mlibia.xyz/en/tags/"
+                href="https://awesome-autism.mlibia.xyz/tags/"
                 />
   </url>
 </urlset>
