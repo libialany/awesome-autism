@@ -102,7 +102,7 @@ params:
 
 languages:
   es:
-    weight: 1
+    weight: 0
     languageName: "Español"
     params:
       label:
@@ -112,7 +112,7 @@ languages:
         Content: "Bienvenido a awesome-autism: Libros, Comunidades, Organizaciones, Videos"
     menu:
       main:
-        - name: Categoria
+        - name: Categorias
           url: /categories/
           weight: 5
         - name: Tags
