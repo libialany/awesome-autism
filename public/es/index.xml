@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Lib</title>
-    <link>https://awesome-autism.mlibia.xyz/es/</link>
+    <link>http://localhost:1313/es/</link>
     <description>Recent content on Lib</description>
     <image>
       <title>Lib</title>
-      <url>https://awesome-autism.mlibia.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://awesome-autism.mlibia.xyz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>es</language>
     <lastBuildDate>Tue, 22 Oct 2024 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://awesome-autism.mlibia.xyz/es/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comunidades útiles</title>
-      <link>https://awesome-autism.mlibia.xyz/es/es/posts/comunity/</link>
+      <link>http://localhost:1313/es/es/posts/comunity/</link>
       <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-      <guid>https://awesome-autism.mlibia.xyz/es/es/posts/comunity/</guid>
+      <guid>http://localhost:1313/es/es/posts/comunity/</guid>
       <description>Comunidades Subreddit de AspergersUna comunidad de Reddit amigable y servicial Subreddit de Aspergirls Habilidades para la vida y mecanismos de afrontamiento saludables para la comunidad con TEA </description>
     </item>
     <item>
       <title>Libros útiles</title>
-      <link>https://awesome-autism.mlibia.xyz/es/es/posts/book/</link>
+      <link>http://localhost:1313/es/es/posts/book/</link>
       <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-      <guid>https://awesome-autism.mlibia.xyz/es/es/posts/book/</guid>
+      <guid>http://localhost:1313/es/es/posts/book/</guid>
       <description>Libros Vivir bien en el espectro: cómo utilizar sus fortalezas para enfrentar los desafíos del síndrome de Asperger/autismo de alto funcionamiento Explica los rasgos en detalle y ofrece estrategias para diversos aspectos de las habilidades para la vida y dominios de funcionamiento.
 Guía de supervivencia de Asperger </description>
     </item>
     <item>
       <title>Organizaciones útiles</title>
-      <link>https://awesome-autism.mlibia.xyz/es/es/posts/organizations/</link>
+      <link>http://localhost:1313/es/es/posts/organizations/</link>
       <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-      <guid>https://awesome-autism.mlibia.xyz/es/es/posts/organizations/</guid>
+      <guid>http://localhost:1313/es/es/posts/organizations/</guid>
       <description>Organizaciones AANE La Red Asperger/Autismo (AANE) ayuda a las personas con El espectro autista y los perfiles neurodiversos de Asperger y similares construyen vidas significativas y conectadas.
 Felicity House NYC Espacio comunitario sin fines de lucro de Nueva York que organiza eventos para mujeres con autismo. </description>
     </item>
     <item>
       <title>Vídeos útiles</title>
-      <link>https://awesome-autism.mlibia.xyz/es/es/posts/videos/</link>
+      <link>http://localhost:1313/es/es/posts/videos/</link>
       <pubDate>Tue, 22 Oct 2024 12:00:00 +0000</pubDate>
-      <guid>https://awesome-autism.mlibia.xyz/es/es/posts/videos/</guid>
+      <guid>http://localhost:1313/es/es/posts/videos/</guid>
       <description>:computadora: Recursos de vídeo Youtuber habla sobre enmascaramiento, capacitismo internalizado y diagnóstico en adultos Alexitimia y Autismo: Qué es, afrontamiento y consejos Recursos de vídeo para mujeres Tony Attwood - Asperger en las niñas Niñas y Mujeres y Autismo: ¿Cuál es la diferencia? - Sarah Hendrickx </description>
     </item>
     <item>
       <title>Acerca</title>
-      <link>https://awesome-autism.mlibia.xyz/es/about/</link>
+      <link>http://localhost:1313/es/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://awesome-autism.mlibia.xyz/es/about/</guid>
+      <guid>http://localhost:1313/es/about/</guid>
       <description> </description>
     </item>
   </channel>
