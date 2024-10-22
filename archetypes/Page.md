@@ -25,9 +25,9 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "http://localhost"
-    alt: "http://localhost"
-    caption: "http://localhost"
+    image: "https://awesome-autism.mlibia.xyz/"
+    alt: "https://awesome-autism.mlibia.xyz/"
+    caption: "https://awesome-autism.mlibia.xyz/"
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
