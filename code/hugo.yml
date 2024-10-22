@@ -108,26 +108,26 @@ languages:
           url: /acerca/
           weight: 15
 
-  en:
-    weight: 2
-    languageName: "English"
-    params:
-      label:
-        text: "Home 🇺🇸"
-      homeInfoParams:
-        Title: "Welcome"
-        Content: "Welcome to the awesome-autism page: Books, Communities, Organizations, Videos"
-    menu:
-      main:
-        - name: Categories
-          url: /categories/
-          weight: 5
-        - name: Tags
-          url: /tags/
-          weight: 10
-        - name: About
-          url: /about/
-          weight: 15
+  # en:
+  #   weight: 2
+  #   languageName: "English"
+  #   params:
+  #     label:
+  #       text: "Home 🇺🇸"
+  #     homeInfoParams:
+  #       Title: "Welcome"
+  #       Content: "Welcome to the awesome-autism page: Books, Communities, Organizations, Videos"
+  #   menu:
+  #     main:
+  #       - name: Categories
+  #         url: /categories/
+  #         weight: 5
+  #       - name: Tags
+  #         url: /tags/
+  #         weight: 10
+  #       - name: About
+  #         url: /about/
+  #         weight: 15
 
 pygmentsUseClasses: true
 markup:
