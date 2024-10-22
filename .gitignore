@@ -1,6 +1,4 @@
-/public/
 resources
-public
 assets/jsconfig.json
 .hugo_build.lock/public
 test_suite_analysis
